@@ -1,1 +1,1 @@
-# "Decoding Market Insights: Exploring Technical Indicators for Financial Analytics"
+# "Exploring Technical Indicators for Financial Analytics"
