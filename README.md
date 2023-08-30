@@ -1,1 +1,1 @@
-# Time-Series-Analysis
+# "Decoding Market Insights: Exploring Technical Indicators for Financial Analytics"
